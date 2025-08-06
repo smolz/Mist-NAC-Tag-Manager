@@ -1,0 +1,6 @@
+# Core dependencies for Mist NAC Tag Manager
+requests>=2.25.0
+cryptography>=3.4.0
+
+# Build dependencies (optional - only needed for packaging)
+pyinstaller>=5.0.0
